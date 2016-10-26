@@ -1,6 +1,11 @@
 require 'rubygems'
 require 'bundler'
 Bundler.require
+
+/**
+hey
+**/
+  
 require_relative 'lib/simple_s3_deploy'
 require_relative 'lib/emoji_optimizer'
 
